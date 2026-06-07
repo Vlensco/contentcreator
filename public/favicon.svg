@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C5A880" />
+      <stop offset="50%" stop-color="#E5D3B3" />
+      <stop offset="100%" stop-color="#A88B60" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Artistic Broken Outer Ring -->
+  <circle cx="50" cy="50" r="42" fill="none" stroke="url(#gold-grad)" stroke-width="2.5" stroke-dasharray="200 40" stroke-linecap="round" transform="rotate(-45 50 50)" />
+  
+  <!-- Abstract Minimalist Brush Stroke Monogram E V -->
+  <path d="M35 30 C35 30, 48 24, 60 30 C65 32, 63 40, 52 42 C40 44, 38 52, 48 55 C58 58, 65 52, 65 52" fill="none" stroke="url(#gold-grad)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <path d="M40 70 L50 48 L60 70" fill="none" stroke="url(#gold-grad)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Subtle Core Dot -->
+  <circle cx="50" cy="40" r="3.5" fill="url(#gold-grad)" />
+</svg>
